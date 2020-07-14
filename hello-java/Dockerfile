@@ -1,6 +1,6 @@
 FROM   registry.access.redhat.com/ubi8/ubi:8.0
 
-MAINTAINER   Red Hat Training <training@redhat.com>
+MAINTAINER   Red Hat a Training <training@redhat.com>
 
 # command line options to pass to the JVM
 ENV	  JAVA_OPTIONS -Xmx512m
